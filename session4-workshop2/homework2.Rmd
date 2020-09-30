@@ -516,7 +516,7 @@ As usual, there is a lot of explanatory text, comments, etc. You do not need the
 
 # Details
 
-- Who did you collaborate with: TYPE NAMES HERE
+- Who did you collaborate with: All Group 26
 - Approximately how much time did you spend on this problem set: ANSWER HERE
 - What, if anything, gave you the most trouble: ANSWER HERE
 
